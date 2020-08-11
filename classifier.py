@@ -125,10 +125,7 @@ build_confusion_matrix(random_forest)
 # [2246 3506]
 #f1-score: 0.610468748792
 
-#sgdclassifier
-# [2414 2074]
-# [2042 3710]
-# f1-Score: 0.640874558778
+
 
 #random forest classifier
 # [1821 2667]
